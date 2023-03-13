@@ -8,7 +8,7 @@ Uno de mis primeros proyectos utilizando las herramientas que aprendí en el [ c
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 
-Mención:
+## Mención:
 Sin más que decir aquí su humilde creador [PetroGucci](https://github.com/PetroGucci) vayan a ver mi perfil de GitHub donde tengo más repositorios interasantes. 
 
 **Fin &hearts;**
